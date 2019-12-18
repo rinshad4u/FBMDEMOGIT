@@ -253,6 +253,10 @@
 				{
 					"name": "personalizationsearchsmartedit",
 					"contextPath": "/personalizationsearchsmartedit"
+				},
+				{
+					"name": "backoffice",
+					"contextPath": "/backoffice"
 				}
 			]
 		}
