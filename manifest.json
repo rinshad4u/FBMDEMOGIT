@@ -257,6 +257,10 @@
 				{
 					"name": "backoffice",
 					"contextPath": "/backoffice"
+				},
+				{
+					"name": "hac",
+					"contextPath": "/hac"
 				}
 			]
 		}
