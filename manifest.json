@@ -89,7 +89,28 @@
 			"addon": "smarteditaddon",
 			"storefront": "yb2bacceleratorstorefront",
 			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "b2bacceleratoraddon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "commerceorgaddon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "commerceorgaddon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "adaptivesearchsamplesaddon",
+			"storefront": "toyotastorefront",
+			"template": "yacceleratorstorefront"
 		}
+		
 	],
 	"properties": [
 		{
