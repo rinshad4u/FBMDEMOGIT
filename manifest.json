@@ -101,7 +101,7 @@
 			"template": "yacceleratorstorefront"
 		},
 		{
-			"addon": "commerceorgaddon",
+			"addon": "accountsummaryaddon",
 			"storefront": "yb2bacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		},
@@ -110,6 +110,22 @@
 			"storefront": "yb2bacceleratorstorefront",
 			"template": "yacceleratorstorefront"
 		}
+		{
+			"addon": "secureportaladdon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "commerceorgsamplesaddon",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		},
+		{
+			"addon": "assistedservicestorefront",
+			"storefront": "yb2bacceleratorstorefront",
+			"template": "yacceleratorstorefront"
+		}
+		
 		
 	],
 	"properties": [
