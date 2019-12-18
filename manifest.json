@@ -106,11 +106,6 @@
 			"template": "yacceleratorstorefront"
 		},
 		{
-			"addon": "adaptivesearchsamplesaddon",
-			"storefront": "yb2bacceleratorstorefront",
-			"template": "yacceleratorstorefront"
-		}
-		{
 			"addon": "secureportaladdon",
 			"storefront": "yb2bacceleratorstorefront",
 			"template": "yacceleratorstorefront"
